@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there! It seems you accidentally stumbled upon my GitHub profile rest here by the fire to warm up.
+---
+
+
 
 <!--
 **JoeyHendricks/JoeyHendricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
