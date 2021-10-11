@@ -1,19 +1,19 @@
-### Hello there! It seems you accidentally stumbled upon my GitHub profile rest here by the fire to warm up.
+### Hello there traveler! It seems you accidentally stumbled upon my profile rest here by the fire to warm up.
 ---
+<!-- LOGO -->
+<p align="center">
+  <img src="https://github.com/JoeyHendricks/JoeyHendricks/blob/main/rest-by-fire-image.png?raw=true"/>
+</p>
+
+## Fireside Chats.
+
+I am **Joey Hendricks** and I am performance engineer helping making the web a faster place and this is my GitHub profile.
+On my profile you can find helpfull tools, frameworks, guides and other stuff to make your performance easier.
+I have you have any question feel free to upon an issue so we can have a chat or connect with me through LinkedIn.
+
+## Blog Posts I have written.
 
 
 
-<!--
-**JoeyHendricks/JoeyHendricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conferences I have presented at. (Recordings)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
