@@ -17,7 +17,7 @@ I have you have any question feel free to upon an issue so we can have a chat or
 - [11/06/2020 Dont lose your mind over slow code check your performance sanity! (PAC 2020)](https://www.linkedin.com/pulse/dont-lose-your-mind-over-slow-code-check-performance-sanity-joey/)
 - [15/07/2020 How to get a better understanding of your performance test results.](https://www.linkedin.com/pulse/how-get-better-understanding-your-performance-test-joey-hendricks/)
 - [12/01/2020 Performance testing on the unit level.](https://www.neotys.com/blog/neotyspac-performance-testing-unit-level-joey-hendricks/)
-- [11-10-2020 Automated performance test result analysis (PAC 2021).](https://github.com/JoeyHendricks/automated-performance-test-result-analysis/blob/master/texts/performance_advisory_council_article.md)
+- [11/10/2020 Automated performance test result analysis (PAC 2021).](https://github.com/JoeyHendricks/automated-performance-test-result-analysis/blob/master/texts/performance_advisory_council_article.md)
 
 ## Conferences I have presented at. (Recordings)
 
