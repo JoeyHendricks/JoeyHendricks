@@ -1,5 +1,5 @@
-### Hello there traveler! It seems you accidentally stumbled upon my profile rest here by the fire to warm up.
----
+# Greetings traveler! Come rest by the fire for as longs as you need.
+
 <!-- LOGO -->
 <p align="center">
   <img src="https://github.com/JoeyHendricks/JoeyHendricks/blob/main/rest-by-fire-image.png?raw=true"/>
@@ -20,9 +20,9 @@ I have you have any question feel free to upon an issue so we can have a chat or
 
 ## Conferences I have presented at. (Recordings)
 
-- [Unit level performance testing @ 2020 PAC.](https://www.youtube.com/watch?v=AWlhalEywEw)
+- [27/10/2020 Unit level performance testing @ 2020 PAC.](https://www.youtube.com/watch?v=AWlhalEywEw)
 
 ## Interviews I have done. 
 
-- [Test Guild interview about QuickPotato.](https://testguild.com/podcast/performance/p56-joey/)
+- [15/12/2020 Test Guild interview about QuickPotato.](https://testguild.com/podcast/performance/p56-joey/)
 
