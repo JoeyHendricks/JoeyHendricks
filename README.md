@@ -9,7 +9,7 @@
 
 I am **Joey Hendricks** and I am performance engineer which means I am helping to make the web a faster and better place.
 On my GitHub profile you can find helpfull tools, frameworks, guides and other stuff to make your performance challenge easier.
-I have you have any question feel free to upon an issue so we can have a chat or connect with me through LinkedIn.
+I have you have any question feel free to upon an issue so we can have a chat or connect with me [through LinkedIn](https://www.linkedin.com/in/joey-hendricks/).
 
 ## Blog Posts & Articles I have written.
 
