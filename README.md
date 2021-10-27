@@ -26,6 +26,7 @@ I have you have any question feel free to upon an issue so we can have a chat or
 ## Interviews I have done. 
 
 - [15/12/2020 Test Guild interview about QuickPotato.](https://testguild.com/podcast/performance/p56-joey/)
+- [27/10/2021 Test Guild talking about automating performance test result analysis.](https://testguild.com/podcast/performance/p80-joey/)
 
 
 <br>
