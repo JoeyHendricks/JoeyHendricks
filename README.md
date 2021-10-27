@@ -22,6 +22,7 @@ I have you have any question feel free to upon an issue so we can have a chat or
 ## Conferences I have presented at. (Recordings)
 
 - [27/10/2020 Unit level performance testing (PAC 2020).](https://www.youtube.com/watch?v=AWlhalEywEw)
+- [20/10/2020 Automating performance test results analysis (PAC 2021).](https://www.tricentis.com/resources/automating-performance-test-results-analysis-pac21/)
 
 ## Podcasts. 
 
