@@ -20,7 +20,7 @@ If have you have any question feel free to upon an issue so we can have a chat o
 - [11/10/2021 Automated performance test result analysis (PAC 2021).](https://github.com/JoeyHendricks/automated-performance-test-result-analysis/blob/master/texts/performance_advisory_council_article.md)
 - [23/05/2022 Should we be hoarding gold like a dragon?](https://www.linkedin.com/pulse/should-we-hoarding-gold-like-dragon-joey-hendricks/)
 
-## Conferences I have presented at. (Recordings)
+## Conferences I have presented at. (Recordings or just mentions)
 
 - [27/10/2020 Unit level performance testing (PAC 2020).](https://www.youtube.com/watch?v=AWlhalEywEw)
 - [24/03/2021 Don't lose your mind over slow code, check performance sanity](https://youtu.be/PRGUIRhfQjY)
