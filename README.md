@@ -19,6 +19,8 @@ If you have any question feel free to upon an issue so we can have a chat or con
 - [12/01/2020 Performance testing on the unit level.](https://www.neotys.com/blog/neotyspac-performance-testing-unit-level-joey-hendricks/)
 - [11/10/2021 Automated performance test result analysis (PAC 2021).](https://github.com/JoeyHendricks/automated-performance-test-result-analysis/blob/master/texts/performance_advisory_council_article.md)
 - [23/05/2022 Should we be hoarding gold like a dragon?](https://www.linkedin.com/pulse/should-we-hoarding-gold-like-dragon-joey-hendricks/)
+- [07/02/2023 Statistical magic spells to automate performance test result analysis](https://www.linkedin.com/pulse/statistical-magic-spells-automate-performance-test-result-hendricks/)
+- [10/06/2023 Reimagining Efficiency: A Tale of Homes, Cloud and Performance Engineering](https://www.linkedin.com/pulse/reimagining-efficiency-tale-homes-cloud-performance-joey-hendricks-vedyf/)
 
 ## Conferences I have presented at. (Recordings or just mentions)
 
@@ -34,7 +36,7 @@ If you have any question feel free to upon an issue so we can have a chat or con
 - [27/10/2021 Test Guild talking about automating performance test result analysis.](https://testguild.com/podcast/performance/p80-joey/)
 - [21/11/2021 Performance Engineers Clubhouse - #20 Automating Performance Test Results and Analysis](https://www.youtube.com/watch?v=V12_64M_vUc&list=PLJ9A48W0kpRJeKrDiNyFpUUlazU_aiPWM&index=18)
 - [15/08/2022 Slight Reliability Episode 20 - Interview with Joey Hendricks Shifting-right with performance testing](https://www.youtube.com/watch?v=6N3bRgcIyqg)
-
+- [23/06/2023 Performance Engineering for Decision Makers -Interview with Scott Moore](https://www.youtube.com/watch?v=hhoIn5MKGnI)
 
 <br>
 <!-- BADGES -->
